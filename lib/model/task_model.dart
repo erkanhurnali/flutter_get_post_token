@@ -124,9 +124,9 @@ class TaskModel {
     final data = <String, dynamic>{};
     data['message'] = message;
     data['status'] = status;
-    if (data != null) {
+    // if (data != null) {
       data['data'] = this.data!.toJson();
-    }
+    // }
     return data;
   }
 }
