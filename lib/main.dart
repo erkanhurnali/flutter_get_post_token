@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_get_post_token/views/login.dart';
+// import 'package:flutter_get_post_token/views/login.dart';
 import 'package:flutter_get_post_token/views/splash.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:get_storage/get_storage.dart';
